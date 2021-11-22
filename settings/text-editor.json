@@ -1,0 +1,8 @@
+{
+    "editorConfig": {
+        "autoClosingBrackets": true,
+        "codeFolding": true,
+        "rulers": [88],
+        "showTrailingSpace": true
+    }
+}
