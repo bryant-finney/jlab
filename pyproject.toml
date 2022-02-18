@@ -8,17 +8,17 @@ authors = ["Bryant Finney <bryant.finney@alumni.uah.edu>"]
 python = "^3.10"
 neovim = "*"
 jedi = "*"
-black = "*"
 jupyterlab = "*"
 pandas = "*"
 matplotlib = "*"
 jupyterlab-git = "*"
-isort = "*"
 jupyterlab-vim = "*"
 jupyterlab-spellchecker = "*"
 jupytext = "*"
 
 [tool.poetry.dev-dependencies]
+black = "*"
+isort = "*"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
